@@ -1,4 +1,8 @@
-<h2>Hi I'm Fletcher 👋 👨‍💻</h2>
+<h1>Hi I'm Fletcher 👋 👨‍💻</h1>
+<h3>I'm passionate frontend developer from Austrlia</h3>
+
+<br/>
+
 <h4 align="center">My favorite technologies</h4>
 <p align="center">
 	<a href="https://vuejs.org/" target="_blank">
