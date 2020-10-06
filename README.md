@@ -18,7 +18,7 @@
 	</a>
 </p>
 
-<p align="center">My favorite technologies</p>
+<p align="center">Other technologies I like</p>
 
 <p align="center">
 	<a href="https://babeljs.io/" target="_blank">
