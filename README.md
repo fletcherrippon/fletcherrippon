@@ -1,5 +1,5 @@
 <h1>Hi I'm Fletcher 👋 👨‍💻</h1>
-<h3>I'm passionate frontend developer from Austrlia</h3>
+<h3>I'm passionate frontend developer from Australia</h3>
 
 <br/>
 
